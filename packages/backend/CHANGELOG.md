@@ -1,5 +1,13 @@
 # example-backend
 
+## 0.0.34-next.1
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/plugin-signals-backend@0.3.0-next.1
+  - @backstage/plugin-notifications-backend@0.5.1-next.0
+
 ## 0.0.34-next.0
 
 ### Patch Changes
